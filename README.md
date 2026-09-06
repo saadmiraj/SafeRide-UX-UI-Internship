@@ -46,8 +46,11 @@ Handoff: Figma Dev Mode
 Documentation: Google Docs
 # Team
 Saad - Team Lead, UI Audit, Demo Presenter
+
 Safa - Branding, Visual Design  
+
 Arnib - Developer Handoff, Demo Slides  
+
 Iqra - Accessibility, Walkthrough Video
 # View the Project
 Figma Prototype: https://www.figma.com/proto/0mcO0ZvJOo1J26lW73wVdV/Untitled?node-id=1-2&p=f&t=9ZR48xGLDWNzNLdb-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1

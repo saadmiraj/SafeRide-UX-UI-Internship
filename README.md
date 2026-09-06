@@ -10,17 +10,20 @@ We started by understanding the problem.
 Conducted user interviews and surveys to identify safety pain points for women in ride-sharing.  
 Competitive analysis of Uber, Careem, and safety apps  Created user personas, user journeys, and defined the core problem statement.  
 Mapped the Information Architecture and primary user flows: Onboarding → Booking → Ride → SOS
+
 Week 2: Wireframing & Flow
 Focused on structure before visuals.  
 Sketched low-fidelity wireframes for all key screens.
 Designed the full user flow with special focus on the Emergency SOS journey.  
 Conducted usability testing on wireframes and iterated based on feedback.  
 Finalized the app structure and navigation.
+
 Week 3: Visual Design & Prototyping
 Brought the app to life.  
 Built a design system: color palette, typography, iconography, and reusable components.  
 Designed high-fidelity screens for onboarding, home/map, booking, ride tracking, profile, and emergency.  
 Created an interactive Figma prototype of the full safety journey.  Internal team review and design refinements.
+
 Week 4: Polish, Accessibility & Handoff
 Made it dev-ready and presentation-ready.  
 Full UI audit for consistency in spacing, colors, and components.  
@@ -48,4 +51,5 @@ Arnib - Developer Handoff, Demo Slides
 Iqra - Accessibility, Walkthrough Video
 # View the Project
 Figma Prototype: https://www.figma.com/proto/0mcO0ZvJOo1J26lW73wVdV/Untitled?node-id=1-2&p=f&t=9ZR48xGLDWNzNLdb-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+
 Figma Audit: https://www.figma.com/design/jgOAqfhj4rDL59ru7SB7ZV/FlyconAI-UX-UI-Audit?node-id=0-1&p=f&t=NrtSmU3FXHwYdcdz-0
